@@ -1,2 +1,2 @@
-# IBM-Data-analyst-project
+# IBM-Data-analyst
 Final project for IBM data analyst certification.
